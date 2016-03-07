@@ -1,0 +1,15 @@
+{
+  "name": "webpack-script-loader-example",
+  "version": "1.0.0",
+  "description": "Demonstrates basic use of webpack's script-loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sean Timm",
+  "license": "ISC",
+  "devDependencies": {
+    "script-loader": "^0.6.1",
+    "webpack": "^1.12.14"
+  }
+}
