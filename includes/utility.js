@@ -1,4 +1,4 @@
 function randomFunction() {
-  alert('It works');
+  return 'randomValue';
 }
 
