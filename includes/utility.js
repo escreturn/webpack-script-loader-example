@@ -1,0 +1,4 @@
+function randomFunction() {
+  return 'randomValue';
+}
+
