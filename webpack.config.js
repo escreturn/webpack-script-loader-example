@@ -2,7 +2,9 @@ var path = require('path');
 
 module.exports = {
   entry: {
-    main: './app/main'
+    main: [
+      './includes/utility.js'
+    ]
   },
   output: {
     path: path.join(__dirname, 'dist'),
