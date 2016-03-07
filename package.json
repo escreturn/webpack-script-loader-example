@@ -4,6 +4,8 @@
   "description": "Demonstrates basic use of webpack's script-loader",
   "main": "index.js",
   "scripts": {
+    "build": "webpack --display-modules",
+    "build_travis": "webpack --display-modules --bail",
     "test": "jest"
   },
   "author": "Sean Timm",
