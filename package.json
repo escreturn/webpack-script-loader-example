@@ -11,8 +11,8 @@
   "author": "Sean Timm",
   "license": "ISC",
   "devDependencies": {
-    "jest-cli": "^12.0.2",
+    "jest-cli": "^18.1.0",
     "script-loader": "^0.7.0",
-    "webpack": "^1.12.14"
+    "webpack": "^2.2.1"
   }
 }
